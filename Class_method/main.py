@@ -1,9 +1,8 @@
 # class method = allow operations related to the class itself
 #                 take (cls) as the first parameter, which represent the class itself
-from itertools import count
 
 
-class Student():
+class Student:
 
     count = 0
     total_gpa = 0
