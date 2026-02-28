@@ -1,4 +1,4 @@
-# Python (Object Oritented Programming)
+# Python (Object Oriented Programming)
 
 ## Object Oriented Programming In Python Language
 
