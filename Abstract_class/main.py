@@ -46,7 +46,7 @@ class Boat(Vehicle):
 
 # vehicle = Vehicle()
                               # error = Can't instantiate abstract class Vehicle without an implementation for abstract methods 'go', 'stop'
-car = Car()                   # When inherit from abstruct method must be implement abstract method also. Otherwise error
+car = Car()                   # When inherit from abstruct class, must be implement their abstract method also. Otherwise error
 motorcycle = Motorcycle()
 boat = Boat()
 
